@@ -2,12 +2,14 @@
 
 is a one page for website created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+## Getting Started & Installation
 
 To begin using this template, choose one of the following options to get started:
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/creative/)
+* Install with npm: `npm install bootstrap@4.0.0-alpha.5`
+* Read the [Getting started page](https://getbootstrap.com/getting-started/) for information on the framework contents, templates and examples, and more.
 
-## Bugs and Issues
+## Running & Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
