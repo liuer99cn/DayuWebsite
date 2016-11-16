@@ -26,7 +26,7 @@
         $(this).removeClass("floating-label-form-group-with-focus");
     });
 
-    // Closes the Responsive Menu on Menu Item Click
+    // Closes the Responsive Menu on Menu Item Click Time
     $('.navbar-collapse ul li a').click(function() {
         $('.navbar-toggle:visible').click();
     });
