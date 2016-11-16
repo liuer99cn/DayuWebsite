@@ -31,7 +31,7 @@
         $('.navbar-toggle:visible').click();
     });
 
-    // Owl Carousel Settings
+    // Owl Carousel Settings Cou
     $(".about-carousel").owlCarousel({
         items: 3,
         navigation: true,
