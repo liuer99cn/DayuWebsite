@@ -370,7 +370,7 @@ header.video .intro-content {
   z-index: 999;
 }
 header.video .scroll-down {
-  z-index: 999;
+  z-index: 9919;
 }
 @media (min-width: 768px) {
   header.video .overlay {
