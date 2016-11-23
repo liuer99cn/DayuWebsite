@@ -7,7 +7,7 @@ $("#style-switcher .panel-button").click(function() {
 
 // Color Skins
 $('.switcher').click(function() {
-    var title = jQuery(this).attr('title');
+    var title = jQuery(this).attr('title of grid');
     jQuery('#changeable-colors').attr('href', 'assets/css/' + title + '.css');
     return false;
 });
